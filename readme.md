@@ -1,6 +1,6 @@
 # 👋ello there mate
 ### I'm ahzam, visual architect x buildoooor
-![RichardSiliconValleyGIF](https://user-images.githubusercontent.com/104062587/190856419-45099612-cac9-453a-b674-0a05a799e58a.gif)
+![CodingGIF](https://user-images.githubusercontent.com/104062587/190856062-b2bb5332-8a1c-4c34-8de1-2772d9475d37.gif)
 
 
 
