@@ -1,3 +1,4 @@
-engineer working in defi, mostly interested in economics and computational biology
+defi research/engineering
 
-previous work: https://read.cv/ahzam
+previous work: https://ahzam.xyz
+
